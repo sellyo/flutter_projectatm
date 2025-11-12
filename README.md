@@ -6,5 +6,6 @@ A new Flutter project.
 
 ![Quick and History](assets/images/quickhistory.png)
 
+![Splash Screen](splash.png)
 
 
